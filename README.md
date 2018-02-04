@@ -1,2 +1,3 @@
 # excercise
-Some demo for Projects
+
+the project is a demo of my newproject
